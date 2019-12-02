@@ -36,3 +36,17 @@ Finally: the elderly.
 
 This data was a two step process. First, we took the percentage of the population that were considered elderly (60+) in a neighborhood. Then, we multiplied that by the actual population of the neighborhood to get an approximate number of actual elderly people. 
 
+
+
+
+
+With that being said: the worst neighborhood is...
+
+
+
+Squirrel Hill South!
+
+
+
+Not only does it have the most speed bumps (as of the most recent update to that database), but it also has the second highest population of older people, and it has the highest amount of warning signs and intersections.
+
